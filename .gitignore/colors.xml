@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f08018</color>
+    <color name="colorPrimaryDark">#FF9800</color>
+    <color name="colorAccent">#FAFAFA</color>
+
+    <color name="background">#f6e9e9</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorRed">#b22222</color>
+    <color name="colorGray">#696969</color>
+    <color name="colorSnow">#eee9e9</color>
+    <color name="background_color">#ffecb9</color>
+    <color name="colorButtonDark">#A52D0F</color>
+    <color name="textBlackColor">#424242</color>
+    <color name="colorGreen">#006400</color>
+    <color name="colorWhite">#FAFAFA</color>
+    <color name="colorHeadLine">#FFAB40</color>
+    <color name="textBox_hintColor">#9C9B9B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="selected_dateBackGround">#bd351b</color>
+    <color name="view_line_color">#C6C5C5</color>
+    <color name="colorSlotAvailable">#308A0C</color>
+
+    <color name="colorSwitchForeground">#C7C7C7</color>
+    <color name="colorSwitchNormal">#f1f1f1</color>
+    <color name="btnCartColor">#FF9800</color>
+    <color name="colorBlue">#2a49e3</color>
+    <color name="colorSlotQuotaNotReleased">#006DF0</color>
+    <color name="calendar_BGColor">#FBE9A8</color>
+
+</resources>
